@@ -1,0 +1,35 @@
+{
+  "name": "RepinMall",
+  "symbol": "RPM",
+  "description": "The official RepinMall affiliate coin. Earn rewards, unlock discounts, and participate in the RepinMall ecosystem. Repin, Reloaded, Repurchase.",
+  "image": "https://arweave.net/KQycHCMUIffxWCZfaqKzkaQYrJWgIqZX8_PUNjyECLY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Affiliate Utility Token"
+    },
+    {
+      "trait_type": "Brand",
+      "value": "RepinMall"
+    },
+    {
+      "trait_type": "Slogan",
+      "value": "Repin, Reloaded, Repurchase"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/KQycHCMUIffxWCZfaqKzkaQYrJWgIqZX8_PUNjyECLY",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}
